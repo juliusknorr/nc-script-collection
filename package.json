@@ -1,20 +1,20 @@
 {
-	"name": "nc-perf-scripts",
-	"version": "1.0.0",
-	"description": "This is a random collection of scripts that help to generate larger amounts of data on Nextcloud instances and can help to investigate performance issues.",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"author": "",
-	"license": "AGPL-3.0-or-later",
-	"dependencies": {
-		"lorem-ipsum": "^2.0.8",
-		"node-fetch": "^3.3.2",
-		"puppeteer": "^24.6.0",
-		"puppeteer-auto-position": "^1.0.2"
-	},
-	"devDependencies": {
-		"prettier": "^3.5.3"
-	}
+    "name": "nc-perf-scripts",
+    "version": "1.0.0",
+    "description": "This is a random collection of scripts that help to generate larger amounts of data on Nextcloud instances and can help to investigate performance issues.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "AGPL-3.0-or-later",
+    "dependencies": {
+        "lorem-ipsum": "^2.0.8",
+        "node-fetch": "^3.3.2",
+        "puppeteer": "^24.6.0",
+        "puppeteer-auto-position": "^1.0.2"
+    },
+    "devDependencies": {
+        "prettier": "^3.5.3"
+    }
 }
